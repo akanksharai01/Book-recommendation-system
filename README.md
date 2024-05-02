@@ -41,3 +41,5 @@ Feel free to customize and expand upon this description to provide more details 
 
 
 
+![Screenshot 2024-05-02 095856](https://github.com/akanksharai01/Book-recommendation-system/assets/95882386/5262b28c-dd31-4145-86da-5fbbdb4ad3f1)
+![Screenshot 2024-05-02 095836](https://github.com/akanksharai01/Book-recommendation-system/assets/95882386/028b93df-91bf-4730-a1f4-6d7811835255)
